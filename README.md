@@ -20,7 +20,7 @@ Technologies Used:
 
 Deployment:
 The portfolio is deployed using GitHub Pages.
-Live Link: [Add your live link here]
+Live Link: https://harshdusane08.github.io/Mera-Portfolio-Harsh/
 
 Installation:
 - To use or modify this project:
@@ -32,6 +32,6 @@ Future Enhancements\;
 
 Contact:
 For any queries or collaboration, you can reach me at:
-LinkedIn: [Your LinkedIn Profile]
-GitHub: [Your GitHub Profile]
-Email: [Your Email Address]
+- LinkedIn: www.linkedin.com/in/harshvardhan-dusane-384469343
+- GitHub: https://github.com/HarshDusane08
+
