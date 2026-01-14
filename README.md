@@ -24,13 +24,11 @@ Live Link: [Add your live link here]
 
 Installation:
 - To use or modify this project:
-1. Clone the repository:
-git clone https://github.com/your-username/your-repo-name.git
-2. Open index.html in any browser.
+1. Open index.html in any browser.
 
 Future Enhancements\;
 - Add backend integration to update projects dynamically
-- Implement AI chatbot for user interaction
+- Improves AI chatbot for user interaction
 
 Contact:
 For any queries or collaboration, you can reach me at:
